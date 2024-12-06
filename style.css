@@ -1,0 +1,16 @@
+h1 {
+    font-family: "Rakkas", serif;
+    font-size: 120px;
+    text-align: center;
+    color: #FDD835;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+body {
+    font-family: "Nunito Sans", sans-serif;
+    background: radial-gradient(circle, rgba(4, 24, 35, 1) 0%,
+            rgba(0, 42, 58, 1) 50%,
+            rgba(4, 24, 35, 1) 100%);
+}
